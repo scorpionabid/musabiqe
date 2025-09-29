@@ -1,0 +1,15 @@
+# Node, macOS və ümumi fayllar
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+build/
+.env
+.env.*
+*.log
+*.tmp
+*.swp
+*.swo
+.vscode/
+.idea/
+
